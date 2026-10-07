@@ -1,0 +1,1522 @@
+[
+  {
+    "id": 1,
+    "nivel": 1,
+    "tema": "Concepto de inflamación",
+    "pregunta": "¿Cuál definición representa mejor la inflamación?",
+    "correcta_texto": "Respuesta protectora de tejidos vascularizados frente a estímulos nocivos, mediada por células inmunitarias, mediadores y cambios en la microcirculación",
+    "alternativas": [
+      "Respuesta protectora de tejidos vascularizados frente a estímulos nocivos, mediada por células inmunitarias, mediadores y cambios en la microcirculación",
+      "Respuesta exclusiva frente a microorganismos viables",
+      "Proceso degenerativo sin participación vascular",
+      "Respuesta adaptativa mediada únicamente por linfocitos"
+    ],
+    "feedbackIncorrecto": {
+      "Respuesta exclusiva frente a microorganismos viables": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Proceso degenerativo sin participación vascular": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Respuesta adaptativa mediada únicamente por linfocitos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La inflamación busca controlar la causa, retirar tejido dañado y preparar la reparación."
+  },
+  {
+    "id": 2,
+    "nivel": 1,
+    "tema": "Objetivos",
+    "pregunta": "¿Cuál es uno de los objetivos de la inflamación?",
+    "correcta_texto": "Eliminar o controlar el agente causante",
+    "alternativas": [
+      "Eliminar o controlar el agente causante",
+      "Producir memoria inmunológica específica en todos los casos",
+      "Sustituir de inmediato el tejido dañado por fibrosis",
+      "Aumentar permanentemente la permeabilidad vascular"
+    ],
+    "feedbackIncorrecto": {
+      "Producir memoria inmunológica específica en todos los casos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Sustituir de inmediato el tejido dañado por fibrosis": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "Aumentar permanentemente la permeabilidad vascular": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La inflamación intenta limitar la noxa y preparar al tejido para su reparación."
+  },
+  {
+    "id": 3,
+    "nivel": 1,
+    "tema": "Inflamación e infección",
+    "pregunta": "¿Qué afirmación diferencia correctamente inflamación de infección?",
+    "correcta_texto": "La inflamación puede producirse sin infección",
+    "alternativas": [
+      "La inflamación puede producirse sin infección",
+      "Toda inflamación es infecciosa",
+      "Toda infección genera solo inflamación crónica",
+      "Inflamación e infección son sinónimos"
+    ],
+    "feedbackIncorrecto": {
+      "Toda inflamación es infecciosa": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Toda infección genera solo inflamación crónica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Inflamación e infección son sinónimos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Trauma, quemaduras, isquemia o necrosis también pueden inducir inflamación."
+  },
+  {
+    "id": 4,
+    "nivel": 1,
+    "tema": "Signos cardinales",
+    "pregunta": "¿Qué signo cardinal se relaciona directamente con aumento del flujo sanguíneo local?",
+    "correcta_texto": "Rubor",
+    "alternativas": [
+      "Rubor",
+      "Edema",
+      "Pérdida de función",
+      "Rigidez"
+    ],
+    "feedbackIncorrecto": {
+      "Edema": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Pérdida de función": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Rigidez": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Rubor y calor derivan del aumento del flujo en la zona inflamada."
+  },
+  {
+    "id": 5,
+    "nivel": 1,
+    "tema": "Estímulos inflamatorios",
+    "pregunta": "¿Cuál de los siguientes puede desencadenar inflamación sin infección?",
+    "correcta_texto": "Isquemia con necrosis tisular",
+    "alternativas": [
+      "Isquemia con necrosis tisular",
+      "Neumonía bacteriana",
+      "Gripe estacional",
+      "Micosis cutánea"
+    ],
+    "feedbackIncorrecto": {
+      "Neumonía bacteriana": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Gripe estacional": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Micosis cutánea": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "El daño tisular estéril también puede activar inflamación."
+  },
+  {
+    "id": 6,
+    "nivel": 1,
+    "tema": "PAMP",
+    "pregunta": "¿Qué describe mejor un PAMP?",
+    "correcta_texto": "Patrón asociado a microorganismos que indica presencia de un agente infeccioso",
+    "alternativas": [
+      "Patrón asociado a microorganismos que indica presencia de un agente infeccioso",
+      "Molécula liberada por células necróticas",
+      "Proteína de fase aguda sintetizada por hígado",
+      "Mediador preformado en mastocitos"
+    ],
+    "feedbackIncorrecto": {
+      "Molécula liberada por células necróticas": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Proteína de fase aguda sintetizada por hígado": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Mediador preformado en mastocitos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Los PAMP derivan del microorganismo e informan infección."
+  },
+  {
+    "id": 7,
+    "nivel": 1,
+    "tema": "DAMP",
+    "pregunta": "¿Qué describe mejor un DAMP?",
+    "correcta_texto": "Molécula liberada por células dañadas o necróticas",
+    "alternativas": [
+      "Molécula liberada por células dañadas o necróticas",
+      "Patrón molecular exclusivo de bacterias",
+      "Anticuerpo específico contra un patógeno",
+      "Citocina antiinflamatoria de resolución"
+    ],
+    "feedbackIncorrecto": {
+      "Patrón molecular exclusivo de bacterias": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Anticuerpo específico contra un patógeno": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Citocina antiinflamatoria de resolución": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Los DAMP indican daño tisular aun en ausencia de infección."
+  },
+  {
+    "id": 8,
+    "nivel": 1,
+    "tema": "Macrófagos",
+    "pregunta": "¿Qué función caracteriza al macrófago como célula centinela?",
+    "correcta_texto": "Reconocer daño, fagocitar y liberar citocinas",
+    "alternativas": [
+      "Reconocer daño, fagocitar y liberar citocinas",
+      "Liberar principalmente histamina",
+      "Producir inmunoglobulinas",
+      "Sintetizar colágeno como función primaria"
+    ],
+    "feedbackIncorrecto": {
+      "Liberar principalmente histamina": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Producir inmunoglobulinas": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Sintetizar colágeno como función primaria": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "El macrófago detecta peligro y coordina parte importante de la respuesta inflamatoria."
+  },
+  {
+    "id": 9,
+    "nivel": 1,
+    "tema": "Mastocitos",
+    "pregunta": "¿Qué mediador se encuentra principalmente almacenado en mastocitos?",
+    "correcta_texto": "Histamina",
+    "alternativas": [
+      "Histamina",
+      "IL-6",
+      "IgG",
+      "Interferón gamma"
+    ],
+    "feedbackIncorrecto": {
+      "IL-6": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí.",
+      "IgG": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Interferón gamma": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La histamina es un mediador temprano típico de mastocitos."
+  },
+  {
+    "id": 10,
+    "nivel": 1,
+    "tema": "Histamina",
+    "pregunta": "¿Cuál es el efecto principal de la histamina en la inflamación aguda?",
+    "correcta_texto": "Vasodilatación y aumento de la permeabilidad vascular",
+    "alternativas": [
+      "Vasodilatación y aumento de la permeabilidad vascular",
+      "Producción hepática de proteínas de fase aguda",
+      "Activación clonal de linfocitos B",
+      "Formación de granulomas"
+    ],
+    "feedbackIncorrecto": {
+      "Producción hepática de proteínas de fase aguda": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Activación clonal de linfocitos B": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Formación de granulomas": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida."
+    },
+    "ideaClave": "La histamina explica parte del rubor, calor y edema iniciales."
+  },
+  {
+    "id": 11,
+    "nivel": 1,
+    "tema": "Prostaglandinas",
+    "pregunta": "¿Qué efectos se asocian mejor a las prostaglandinas?",
+    "correcta_texto": "Vasodilatación, dolor y fiebre",
+    "alternativas": [
+      "Vasodilatación, dolor y fiebre",
+      "Producción de anticuerpos y memoria",
+      "Opsonización microbiana",
+      "Formación de tejido cicatricial maduro"
+    ],
+    "feedbackIncorrecto": {
+      "Producción de anticuerpos y memoria": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Opsonización microbiana": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Formación de tejido cicatricial maduro": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Las prostaglandinas participan en dolor y fiebre además de vasodilatación."
+  },
+  {
+    "id": 12,
+    "nivel": 1,
+    "tema": "Leucotrienos",
+    "pregunta": "¿Qué efecto principal se atribuye a los leucotrienos?",
+    "correcta_texto": "Aumento de la permeabilidad y reclutamiento celular",
+    "alternativas": [
+      "Aumento de la permeabilidad y reclutamiento celular",
+      "Producción de inmunoglobulina M",
+      "Síntesis de colágeno tipo I",
+      "Formación de células gigantes multinucleadas"
+    ],
+    "feedbackIncorrecto": {
+      "Producción de inmunoglobulina M": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Síntesis de colágeno tipo I": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Formación de células gigantes multinucleadas": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Los leucotrienos favorecen permeabilidad y llegada de leucocitos."
+  },
+  {
+    "id": 13,
+    "nivel": 1,
+    "tema": "Bradicinina",
+    "pregunta": "¿Qué efecto se relaciona especialmente con la bradicinina?",
+    "correcta_texto": "Dolor y aumento de la permeabilidad vascular",
+    "alternativas": [
+      "Dolor y aumento de la permeabilidad vascular",
+      "Leucocitosis y fase aguda",
+      "Producción de anticuerpos",
+      "Activación del fibroblasto"
+    ],
+    "feedbackIncorrecto": {
+      "Leucocitosis y fase aguda": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Producción de anticuerpos": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Activación del fibroblasto": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La bradicinina es un mediador clave del dolor inflamatorio."
+  },
+  {
+    "id": 14,
+    "nivel": 1,
+    "tema": "Citocinas proinflamatorias",
+    "pregunta": "¿Qué citocina estimula al hígado a producir proteínas de fase aguda?",
+    "correcta_texto": "IL-6",
+    "alternativas": [
+      "IL-6",
+      "Histamina",
+      "Bradicinina",
+      "IgA"
+    ],
+    "feedbackIncorrecto": {
+      "Histamina": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí.",
+      "Bradicinina": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí.",
+      "IgA": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio."
+    },
+    "ideaClave": "IL-6 vincula inflamación con respuesta de fase aguda y fiebre."
+  },
+  {
+    "id": 15,
+    "nivel": 1,
+    "tema": "TNF-α",
+    "pregunta": "¿Qué efecto se atribuye especialmente al TNF-α?",
+    "correcta_texto": "Activación endotelial y facilitación del reclutamiento leucocitario",
+    "alternativas": [
+      "Activación endotelial y facilitación del reclutamiento leucocitario",
+      "Producción de colágeno",
+      "Formación directa del fagosoma",
+      "Secreción de inmunoglobulinas"
+    ],
+    "feedbackIncorrecto": {
+      "Producción de colágeno": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Formación directa del fagosoma": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Secreción de inmunoglobulinas": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio."
+    },
+    "ideaClave": "TNF-α potencia la respuesta inflamatoria y la interacción con el endotelio."
+  },
+  {
+    "id": 16,
+    "nivel": 1,
+    "tema": "Inflamación aguda",
+    "pregunta": "¿Qué patrón caracteriza mejor a la inflamación aguda?",
+    "correcta_texto": "Inicio rápido, duración breve y predominio de neutrófilos",
+    "alternativas": [
+      "Inicio rápido, duración breve y predominio de neutrófilos",
+      "Duración prolongada y predominio de fibroblastos",
+      "Presencia obligatoria de granulomas",
+      "Predominio de linfocitos B y células plasmáticas desde el inicio"
+    ],
+    "feedbackIncorrecto": {
+      "Duración prolongada y predominio de fibroblastos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Presencia obligatoria de granulomas": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida.",
+      "Predominio de linfocitos B y células plasmáticas desde el inicio": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La inflamación aguda combina cambios vasculares con infiltrado neutrofílico."
+  },
+  {
+    "id": 17,
+    "nivel": 1,
+    "tema": "Exudado",
+    "pregunta": "¿Qué define mejor a un exudado inflamatorio?",
+    "correcta_texto": "Líquido rico en proteínas plasmáticas por aumento de la permeabilidad vascular",
+    "alternativas": [
+      "Líquido rico en proteínas plasmáticas por aumento de la permeabilidad vascular",
+      "Líquido pobre en proteínas por aumento de presión hidrostática",
+      "Acumulación exclusiva de eritrocitos",
+      "Secreción formada solo por anticuerpos"
+    ],
+    "feedbackIncorrecto": {
+      "Líquido pobre en proteínas por aumento de presión hidrostática": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Acumulación exclusiva de eritrocitos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Secreción formada solo por anticuerpos": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio."
+    },
+    "ideaClave": "El exudado surge por fuga de líquido y proteínas al intersticio."
+  },
+  {
+    "id": 18,
+    "nivel": 1,
+    "tema": "Edema",
+    "pregunta": "¿Qué secuencia explica el edema inflamatorio?",
+    "correcta_texto": "Aumento de permeabilidad → salida de proteínas → salida de agua al tejido",
+    "alternativas": [
+      "Aumento de permeabilidad → salida de proteínas → salida de agua al tejido",
+      "Vasoconstricción → retención de proteínas → edema",
+      "Disminución de permeabilidad → salida de agua → edema",
+      "Mayor presión oncótica plasmática → salida de agua → edema"
+    ],
+    "feedbackIncorrecto": {
+      "Vasoconstricción → retención de proteínas → edema": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Disminución de permeabilidad → salida de agua → edema": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Mayor presión oncótica plasmática → salida de agua → edema": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La fuga de proteínas al intersticio favorece el paso de agua y el edema."
+  },
+  {
+    "id": 19,
+    "nivel": 1,
+    "tema": "Reclutamiento leucocitario",
+    "pregunta": "¿Cuál es la secuencia correcta del reclutamiento leucocitario?",
+    "correcta_texto": "Marginación → rodamiento → adhesión → diapédesis → migración hacia el sitio lesionado",
+    "alternativas": [
+      "Marginación → rodamiento → adhesión → diapédesis → migración hacia el sitio lesionado",
+      "Adhesión → marginación → fagocitosis → rodamiento",
+      "Rodamiento → fagocitosis → adhesión → diapédesis",
+      "Diapédesis → adhesión → marginación → quimiotaxis"
+    ],
+    "feedbackIncorrecto": {
+      "Adhesión → marginación → fagocitosis → rodamiento": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Rodamiento → fagocitosis → adhesión → diapédesis": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Diapédesis → adhesión → marginación → quimiotaxis": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "El leucocito primero se aproxima, luego rueda, se adhiere, atraviesa el endotelio y migra."
+  },
+  {
+    "id": 20,
+    "nivel": 1,
+    "tema": "Inflamación crónica",
+    "pregunta": "¿Qué patrón caracteriza mejor la inflamación crónica?",
+    "correcta_texto": "Duración prolongada, células mononucleares, angiogénesis y fibrosis",
+    "alternativas": [
+      "Duración prolongada, células mononucleares, angiogénesis y fibrosis",
+      "Inicio rápido con predominio neutrofílico exclusivo",
+      "Vasodilatación transitoria sin reparación tisular",
+      "Liberación aguda de histamina como rasgo dominante"
+    ],
+    "feedbackIncorrecto": {
+      "Inicio rápido con predominio neutrofílico exclusivo": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Vasodilatación transitoria sin reparación tisular": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Liberación aguda de histamina como rasgo dominante": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La cronicidad combina persistencia del estímulo, daño y reparación."
+  },
+  {
+    "id": 21,
+    "nivel": 2,
+    "tema": "PAMP y DAMP",
+    "pregunta": "Paciente con quemadura extensa sin signos de infección libera ATP y otras moléculas intracelulares. ¿Qué señal predomina?",
+    "correcta_texto": "DAMP",
+    "alternativas": [
+      "DAMP",
+      "PAMP",
+      "IgG",
+      "Histamina"
+    ],
+    "feedbackIncorrecto": {
+      "PAMP": "Los PAMP provienen de microorganismos; esa lógica no es la central en este ítem.",
+      "IgG": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Histamina": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí."
+    },
+    "ideaClave": "El daño estéril libera DAMP que activan inflamación."
+  },
+  {
+    "id": 22,
+    "nivel": 2,
+    "tema": "PAMP y DAMP",
+    "pregunta": "En una neumonía por bacterias Gram negativas, el macrófago reconoce LPS. ¿Cómo se clasifica esa señal?",
+    "correcta_texto": "PAMP",
+    "alternativas": [
+      "PAMP",
+      "DAMP",
+      "Citocina de fase aguda",
+      "Proteína del complemento"
+    ],
+    "feedbackIncorrecto": {
+      "DAMP": "Los DAMP derivan de células dañadas o necróticas; esta alternativa no corresponde al caso planteado.",
+      "Citocina de fase aguda": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Proteína del complemento": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "El LPS es un patrón microbiano clásico, por lo tanto es un PAMP."
+  },
+  {
+    "id": 23,
+    "nivel": 2,
+    "tema": "PAMP y DAMP",
+    "pregunta": "Una herida infectada presenta necrosis local y proliferación bacteriana. ¿Qué interpretación es más adecuada?",
+    "correcta_texto": "Coexisten señales PAMP y DAMP",
+    "alternativas": [
+      "Coexisten señales PAMP y DAMP",
+      "Solo señales PAMP",
+      "Solo señales DAMP",
+      "No hay señales de peligro porque una anula a la otra"
+    ],
+    "feedbackIncorrecto": {
+      "Solo señales PAMP": "Los PAMP provienen de microorganismos; esa lógica no es la central en este ítem.",
+      "Solo señales DAMP": "Los DAMP derivan de células dañadas o necróticas; esta alternativa no corresponde al caso planteado.",
+      "No hay señales de peligro porque una anula a la otra": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Las bacterias aportan PAMP y el tejido lesionado aporta DAMP."
+  },
+  {
+    "id": 24,
+    "nivel": 2,
+    "tema": "Histamina",
+    "pregunta": "A los pocos minutos de una lesión aparecen rubor, calor y edema. ¿Qué mediador explica mejor el patrón inicial?",
+    "correcta_texto": "Histamina",
+    "alternativas": [
+      "Histamina",
+      "IL-6",
+      "IgM",
+      "Colágeno"
+    ],
+    "feedbackIncorrecto": {
+      "IL-6": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí.",
+      "IgM": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Colágeno": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La histamina produce vasodilatación y aumento de permeabilidad muy tempranos."
+  },
+  {
+    "id": 25,
+    "nivel": 2,
+    "tema": "Prostaglandinas",
+    "pregunta": "Un paciente con inflamación aguda tiene dolor y fiebre. ¿Qué mediador se relaciona mejor con ambos fenómenos?",
+    "correcta_texto": "Prostaglandinas",
+    "alternativas": [
+      "Prostaglandinas",
+      "IgA",
+      "C3b",
+      "Fibronectina"
+    ],
+    "feedbackIncorrecto": {
+      "IgA": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "C3b": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Fibronectina": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Las prostaglandinas son importantes en dolor y fiebre."
+  },
+  {
+    "id": 26,
+    "nivel": 2,
+    "tema": "Bradicinina",
+    "pregunta": "Dolor local intenso acompañado de aumento de permeabilidad sugiere participación relevante de:",
+    "correcta_texto": "Bradicinina",
+    "alternativas": [
+      "Bradicinina",
+      "IL-6",
+      "IgG",
+      "TGF-β"
+    ],
+    "feedbackIncorrecto": {
+      "IL-6": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí.",
+      "IgG": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "TGF-β": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La bradicinina se asocia especialmente a dolor y permeabilidad."
+  },
+  {
+    "id": 27,
+    "nivel": 2,
+    "tema": "TNF-α",
+    "pregunta": "Si aumenta la activación endotelial y el reclutamiento leucocitario, ¿qué citocina es especialmente compatible?",
+    "correcta_texto": "TNF-α",
+    "alternativas": [
+      "TNF-α",
+      "IL-4",
+      "IgM",
+      "Histamina como único mecanismo"
+    ],
+    "feedbackIncorrecto": {
+      "IL-4": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "IgM": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Histamina como único mecanismo": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "TNF-α activa endotelio y facilita la llegada de leucocitos."
+  },
+  {
+    "id": 28,
+    "nivel": 2,
+    "tema": "IL-6",
+    "pregunta": "Fiebre con aumento de proteínas de fase aguda sugiere una participación importante de:",
+    "correcta_texto": "IL-6",
+    "alternativas": [
+      "IL-6",
+      "Histamina",
+      "Bradicinina",
+      "IgE"
+    ],
+    "feedbackIncorrecto": {
+      "Histamina": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí.",
+      "Bradicinina": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí.",
+      "IgE": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio."
+    },
+    "ideaClave": "IL-6 es clave en la respuesta de fase aguda y la fiebre."
+  },
+  {
+    "id": 29,
+    "nivel": 2,
+    "tema": "Inflamación aguda",
+    "pregunta": "Lesión reciente con exudado rico en proteínas y predominio de neutrófilos. ¿Qué patrón representa?",
+    "correcta_texto": "Inflamación aguda",
+    "alternativas": [
+      "Inflamación aguda",
+      "Inflamación crónica inespecífica",
+      "Inflamación granulomatosa",
+      "Fibrosis madura"
+    ],
+    "feedbackIncorrecto": {
+      "Inflamación crónica inespecífica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Inflamación granulomatosa": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida.",
+      "Fibrosis madura": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem."
+    },
+    "ideaClave": "La combinación de inicio reciente, exudado y neutrófilos orienta a inflamación aguda."
+  },
+  {
+    "id": 30,
+    "nivel": 2,
+    "tema": "Edema",
+    "pregunta": "¿Qué cambio favorece directamente la formación del edema inflamatorio?",
+    "correcta_texto": "Salida de proteínas plasmáticas al intersticio",
+    "alternativas": [
+      "Salida de proteínas plasmáticas al intersticio",
+      "Disminución de proteínas intersticiales",
+      "Retención completa de líquido dentro del vaso",
+      "Disminución del espacio interendotelial"
+    ],
+    "feedbackIncorrecto": {
+      "Disminución de proteínas intersticiales": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Retención completa de líquido dentro del vaso": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Disminución del espacio interendotelial": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La fuga proteica modifica el gradiente y favorece salida de agua."
+  },
+  {
+    "id": 31,
+    "nivel": 2,
+    "tema": "Reclutamiento leucocitario",
+    "pregunta": "Un leucocito está firmemente unido al endotelio antes de atravesar la pared vascular. ¿En qué etapa está?",
+    "correcta_texto": "Adhesión",
+    "alternativas": [
+      "Adhesión",
+      "Marginación",
+      "Rodamiento",
+      "Quimiotaxis"
+    ],
+    "feedbackIncorrecto": {
+      "Marginación": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Rodamiento": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Quimiotaxis": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La adhesión firme precede a la diapédesis."
+  },
+  {
+    "id": 32,
+    "nivel": 2,
+    "tema": "Quimiotaxis",
+    "pregunta": "Después de atravesar el endotelio, un neutrófilo avanza hacia mayor concentración de mediadores. ¿Qué proceso ocurre?",
+    "correcta_texto": "Quimiotaxis",
+    "alternativas": [
+      "Quimiotaxis",
+      "Rodamiento",
+      "Marginación",
+      "Vasodilatación"
+    ],
+    "feedbackIncorrecto": {
+      "Rodamiento": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Marginación": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Vasodilatación": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La quimiotaxis dirige el desplazamiento hacia el foco de lesión."
+  },
+  {
+    "id": 33,
+    "nivel": 2,
+    "tema": "Neutrófilos",
+    "pregunta": "En una infección bacteriana de pocas horas de evolución, ¿qué célula predomina con mayor probabilidad?",
+    "correcta_texto": "Neutrófilo",
+    "alternativas": [
+      "Neutrófilo",
+      "Macrófago",
+      "Linfocito",
+      "Fibroblasto"
+    ],
+    "feedbackIncorrecto": {
+      "Macrófago": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Linfocito": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Fibroblasto": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "El neutrófilo es el leucocito predominante al inicio de la inflamación aguda."
+  },
+  {
+    "id": 34,
+    "nivel": 2,
+    "tema": "Macrófagos",
+    "pregunta": "Varios días después de una lesión aumentan células que fagocitan restos, liberan citocinas y participan en reparación. ¿Cuáles son?",
+    "correcta_texto": "Macrófagos",
+    "alternativas": [
+      "Macrófagos",
+      "Mastocitos",
+      "Células plasmáticas",
+      "Eosinófilos"
+    ],
+    "feedbackIncorrecto": {
+      "Mastocitos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Células plasmáticas": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Eosinófilos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Los macrófagos persisten más tiempo y ayudan a reparar."
+  },
+  {
+    "id": 35,
+    "nivel": 2,
+    "tema": "Resolución de la inflamación aguda",
+    "pregunta": "Si se elimina el agente causal y el tejido puede recuperarse, ¿qué desenlace es más probable?",
+    "correcta_texto": "Resolución completa",
+    "alternativas": [
+      "Resolución completa",
+      "Inflamación crónica obligatoria",
+      "Granuloma",
+      "Fibrosis extensa inevitable"
+    ],
+    "feedbackIncorrecto": {
+      "Inflamación crónica obligatoria": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Granuloma": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida.",
+      "Fibrosis extensa inevitable": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem."
+    },
+    "ideaClave": "La inflamación aguda puede resolver completamente si desaparece la causa."
+  },
+  {
+    "id": 36,
+    "nivel": 2,
+    "tema": "Respuesta inflamatoria sistémica",
+    "pregunta": "Un foco local se acompaña de fiebre, leucocitosis y malestar general. ¿Qué interpretación es correcta?",
+    "correcta_texto": "Los mediadores inflamatorios están generando efectos sistémicos",
+    "alternativas": [
+      "Los mediadores inflamatorios están generando efectos sistémicos",
+      "Solo existe una respuesta local",
+      "El cuadro corresponde necesariamente a inflamación crónica",
+      "La inflamación se volvió exclusivamente endocrina"
+    ],
+    "feedbackIncorrecto": {
+      "Solo existe una respuesta local": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "El cuadro corresponde necesariamente a inflamación crónica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "La inflamación se volvió exclusivamente endocrina": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Las citocinas pueden actuar a distancia y producir respuesta sistémica."
+  },
+  {
+    "id": 37,
+    "nivel": 2,
+    "tema": "Inflamación crónica",
+    "pregunta": "Una lesión prolongada presenta macrófagos, linfocitos, angiogénesis y fibrosis. ¿Qué patrón corresponde?",
+    "correcta_texto": "Inflamación crónica",
+    "alternativas": [
+      "Inflamación crónica",
+      "Inflamación aguda temprana",
+      "Edema aislado",
+      "Respuesta vascular transitoria"
+    ],
+    "feedbackIncorrecto": {
+      "Inflamación aguda temprana": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Edema aislado": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Respuesta vascular transitoria": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La persistencia con células mononucleares y fibrosis es típica de cronicidad."
+  },
+  {
+    "id": 38,
+    "nivel": 2,
+    "tema": "Transición a cronicidad",
+    "pregunta": "¿Qué situación favorece la transición desde inflamación aguda a crónica?",
+    "correcta_texto": "Persistencia del estímulo lesivo",
+    "alternativas": [
+      "Persistencia del estímulo lesivo",
+      "Eliminación rápida del agente",
+      "Resolución completa del daño",
+      "Regeneración total del tejido"
+    ],
+    "feedbackIncorrecto": {
+      "Eliminación rápida del agente": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Resolución completa del daño": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Regeneración total del tejido": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La permanencia de la noxa mantiene la activación inflamatoria."
+  },
+  {
+    "id": 39,
+    "nivel": 2,
+    "tema": "Granuloma",
+    "pregunta": "Una biopsia muestra acúmulos de macrófagos modificados rodeados por linfocitos. ¿Qué patrón sugiere?",
+    "correcta_texto": "Inflamación granulomatosa",
+    "alternativas": [
+      "Inflamación granulomatosa",
+      "Inflamación aguda serosa",
+      "Edema transudativo",
+      "Resolución completa"
+    ],
+    "feedbackIncorrecto": {
+      "Inflamación aguda serosa": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Edema transudativo": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Resolución completa": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "El granuloma es una forma específica de inflamación crónica."
+  },
+  {
+    "id": 40,
+    "nivel": 2,
+    "tema": "Fibrosis",
+    "pregunta": "Una lesión crónica presenta infiltrado difuso de macrófagos y linfocitos con proliferación de fibroblastos. ¿Qué consecuencia es esperable?",
+    "correcta_texto": "Formación progresiva de cicatriz o fibrosis",
+    "alternativas": [
+      "Formación progresiva de cicatriz o fibrosis",
+      "Resolución inmediata sin secuelas",
+      "Predominio persistente de neutrófilos",
+      "Disminución del tejido conectivo"
+    ],
+    "feedbackIncorrecto": {
+      "Resolución inmediata sin secuelas": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Predominio persistente de neutrófilos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Disminución del tejido conectivo": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La proliferación fibroblástica puede reemplazar tejido funcional por cicatriz."
+  },
+  {
+    "id": 41,
+    "nivel": 3,
+    "tema": "Signos cardinales",
+    "pregunta": "¿Qué relación explica mejor rubor, calor y edema en una inflamación aguda?",
+    "correcta_texto": "La vasodilatación aumenta el flujo; la mayor permeabilidad permite salida de líquido y proteínas",
+    "alternativas": [
+      "La vasodilatación aumenta el flujo; la mayor permeabilidad permite salida de líquido y proteínas",
+      "La vasoconstricción aumenta el flujo y la menor permeabilidad origina edema",
+      "La quimiotaxis por sí sola explica rubor, calor y edema",
+      "La adhesión leucocitaria es suficiente para generar todos los signos"
+    ],
+    "feedbackIncorrecto": {
+      "La vasoconstricción aumenta el flujo y la menor permeabilidad origina edema": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "La quimiotaxis por sí sola explica rubor, calor y edema": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "La adhesión leucocitaria es suficiente para generar todos los signos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Los signos combinan cambios hemodinámicos y de permeabilidad."
+  },
+  {
+    "id": 42,
+    "nivel": 3,
+    "tema": "DAMP",
+    "pregunta": "Un infarto agudo al miocardio sin infección produce inflamación intensa. ¿Qué secuencia causal es correcta?",
+    "correcta_texto": "Necrosis celular → liberación de DAMP → reconocimiento por células centinela → inflamación",
+    "alternativas": [
+      "Necrosis celular → liberación de DAMP → reconocimiento por células centinela → inflamación",
+      "Necrosis → liberación de PAMP → anticuerpos → inflamación",
+      "Isquemia → IgE → infección → inflamación",
+      "Necrosis → desaparición de mediadores → resolución inmediata"
+    ],
+    "feedbackIncorrecto": {
+      "Necrosis → liberación de PAMP → anticuerpos → inflamación": "Los PAMP provienen de microorganismos; esa lógica no es la central en este ítem.",
+      "Isquemia → IgE → infección → inflamación": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Necrosis → desaparición de mediadores → resolución inmediata": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La necrosis estéril puede iniciar inflamación mediante DAMP."
+  },
+  {
+    "id": 43,
+    "nivel": 3,
+    "tema": "Células centinela",
+    "pregunta": "¿Cómo se relacionan macrófagos, mastocitos y células dendríticas al inicio de la inflamación?",
+    "correcta_texto": "Actúan como células centinela que detectan peligro y desencadenan señales inflamatorias",
+    "alternativas": [
+      "Actúan como células centinela que detectan peligro y desencadenan señales inflamatorias",
+      "Son exclusivas de la respuesta adaptativa",
+      "Participan solo después de la resolución",
+      "Su función principal es formar tejido cicatricial"
+    ],
+    "feedbackIncorrecto": {
+      "Son exclusivas de la respuesta adaptativa": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Participan solo después de la resolución": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Su función principal es formar tejido cicatricial": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Las células centinela conectan reconocimiento de daño con liberación de mediadores."
+  },
+  {
+    "id": 44,
+    "nivel": 3,
+    "tema": "Histamina y edema",
+    "pregunta": "¿Qué secuencia vincula la histamina con la formación de edema?",
+    "correcta_texto": "Histamina → aumento de la permeabilidad → salida de proteínas → salida de agua → edema",
+    "alternativas": [
+      "Histamina → aumento de la permeabilidad → salida de proteínas → salida de agua → edema",
+      "Histamina → disminución de la permeabilidad → edema",
+      "Histamina → fibrosis → edema",
+      "Histamina → disminución del flujo → edema"
+    ],
+    "feedbackIncorrecto": {
+      "Histamina → disminución de la permeabilidad → edema": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Histamina → fibrosis → edema": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "Histamina → disminución del flujo → edema": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La histamina favorece la fuga vascular que genera edema."
+  },
+  {
+    "id": 45,
+    "nivel": 3,
+    "tema": "Respuesta sistémica",
+    "pregunta": "¿Qué relación conecta mejor una inflamación local con fiebre y proteínas de fase aguda?",
+    "correcta_texto": "Citocinas proinflamatorias → acción a distancia sobre hipotálamo e hígado",
+    "alternativas": [
+      "Citocinas proinflamatorias → acción a distancia sobre hipotálamo e hígado",
+      "Histamina local → producción de IgG → fiebre",
+      "Bradicinina → fibrosis hepática → leucocitosis",
+      "Neutrófilos → síntesis de anticuerpos → respuesta sistémica"
+    ],
+    "feedbackIncorrecto": {
+      "Histamina local → producción de IgG → fiebre": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Bradicinina → fibrosis hepática → leucocitosis": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "Neutrófilos → síntesis de anticuerpos → respuesta sistémica": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio."
+    },
+    "ideaClave": "Las citocinas permiten que una respuesta local tenga manifestaciones generales."
+  },
+  {
+    "id": 46,
+    "nivel": 3,
+    "tema": "Endotelio",
+    "pregunta": "¿Cómo se relaciona la activación endotelial con el reclutamiento leucocitario?",
+    "correcta_texto": "Facilita la adhesión y la posterior transmigración de leucocitos",
+    "alternativas": [
+      "Facilita la adhesión y la posterior transmigración de leucocitos",
+      "Impide la adhesión leucocitaria",
+      "Ocurre después de la quimiotaxis tisular",
+      "La diapédesis ocurre antes del contacto con endotelio"
+    ],
+    "feedbackIncorrecto": {
+      "Impide la adhesión leucocitaria": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Ocurre después de la quimiotaxis tisular": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "La diapédesis ocurre antes del contacto con endotelio": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Sin activación endotelial la salida del leucocito del vaso se dificulta."
+  },
+  {
+    "id": 47,
+    "nivel": 3,
+    "tema": "Temporalidad celular",
+    "pregunta": "¿Qué relación temporal entre neutrófilos y macrófagos es más compatible con inflamación aguda?",
+    "correcta_texto": "Los neutrófilos predominan temprano; los macrófagos aparecen luego y persisten más tiempo",
+    "alternativas": [
+      "Los neutrófilos predominan temprano; los macrófagos aparecen luego y persisten más tiempo",
+      "Los macrófagos predominan primero y los neutrófilos aparecen días después",
+      "Ambos aparecen solo en inflamación crónica",
+      "Los neutrófilos participan solo en reparación"
+    ],
+    "feedbackIncorrecto": {
+      "Los macrófagos predominan primero y los neutrófilos aparecen días después": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Ambos aparecen solo en inflamación crónica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Los neutrófilos participan solo en reparación": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La secuencia temporal del infiltrado cambia a lo largo de la respuesta."
+  },
+  {
+    "id": 48,
+    "nivel": 3,
+    "tema": "Aguda vs crónica",
+    "pregunta": "¿Qué relación distingue mejor la inflamación aguda de la crónica?",
+    "correcta_texto": "Aguda: neutrófilos y cambios vasculares; crónica: macrófagos/linfocitos y fibrosis",
+    "alternativas": [
+      "Aguda: neutrófilos y cambios vasculares; crónica: macrófagos/linfocitos y fibrosis",
+      "Aguda: fibrosis; crónica: neutrófilos",
+      "Aguda: granulomas; crónica: resolución completa",
+      "Aguda y crónica tienen el mismo patrón celular"
+    ],
+    "feedbackIncorrecto": {
+      "Aguda: fibrosis; crónica: neutrófilos": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "Aguda: granulomas; crónica: resolución completa": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida.",
+      "Aguda y crónica tienen el mismo patrón celular": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Tiempo, tipo celular y reparación permiten distinguirlas."
+  },
+  {
+    "id": 49,
+    "nivel": 3,
+    "tema": "Sistémica vs crónica",
+    "pregunta": "¿Qué diferencia conceptual es correcta?",
+    "correcta_texto": "La respuesta sistémica describe efectos generales; la crónica describe persistencia prolongada del proceso",
+    "alternativas": [
+      "La respuesta sistémica describe efectos generales; la crónica describe persistencia prolongada del proceso",
+      "Toda respuesta sistémica implica cronicidad",
+      "Toda inflamación crónica produce fiebre intensa",
+      "Ambos conceptos son equivalentes"
+    ],
+    "feedbackIncorrecto": {
+      "Toda respuesta sistémica implica cronicidad": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Toda inflamación crónica produce fiebre intensa": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Ambos conceptos son equivalentes": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La extensión sistémica y la duración crónica son dimensiones diferentes."
+  },
+  {
+    "id": 50,
+    "nivel": 3,
+    "tema": "IL-6",
+    "pregunta": "¿Qué asociación entre citocina y efecto es correcta?",
+    "correcta_texto": "IL-6 → estimulación hepática de proteínas de fase aguda",
+    "alternativas": [
+      "IL-6 → estimulación hepática de proteínas de fase aguda",
+      "TNF-α → producción de inmunoglobulinas",
+      "IL-1 → formación directa de colágeno",
+      "IL-6 → degranulación mastocitaria como efecto principal"
+    ],
+    "feedbackIncorrecto": {
+      "TNF-α → producción de inmunoglobulinas": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "IL-1 → formación directa de colágeno": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "IL-6 → degranulación mastocitaria como efecto principal": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida."
+    },
+    "ideaClave": "IL-6 participa en fase aguda y fiebre."
+  },
+  {
+    "id": 51,
+    "nivel": 3,
+    "tema": "Edema y función",
+    "pregunta": "¿Cómo puede el edema contribuir al dolor y a la pérdida de función?",
+    "correcta_texto": "El aumento de volumen eleva la presión tisular y altera la mecánica local",
+    "alternativas": [
+      "El aumento de volumen eleva la presión tisular y altera la mecánica local",
+      "El edema siempre disminuye la presión del tejido",
+      "El edema bloquea completamente la llegada de leucocitos",
+      "El edema transforma neutrófilos en macrófagos"
+    ],
+    "feedbackIncorrecto": {
+      "El edema siempre disminuye la presión del tejido": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "El edema bloquea completamente la llegada de leucocitos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "El edema transforma neutrófilos en macrófagos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "El edema no solo es un signo, también puede empeorar la disfunción."
+  },
+  {
+    "id": 52,
+    "nivel": 3,
+    "tema": "Fagocitosis",
+    "pregunta": "¿Cuál secuencia describe correctamente la fagocitosis?",
+    "correcta_texto": "Reconocimiento y unión → englobamiento/fagosoma → destrucción y degradación",
+    "alternativas": [
+      "Reconocimiento y unión → englobamiento/fagosoma → destrucción y degradación",
+      "Englobamiento → reconocimiento → fibrosis",
+      "Destrucción → adhesión endotelial → fagosoma",
+      "Quimiotaxis → anticuerpo → regeneración"
+    ],
+    "feedbackIncorrecto": {
+      "Englobamiento → reconocimiento → fibrosis": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "Destrucción → adhesión endotelial → fagosoma": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Quimiotaxis → anticuerpo → regeneración": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio."
+    },
+    "ideaClave": "La fagocitosis es un proceso ordenado de captura y destrucción del agente."
+  },
+  {
+    "id": 53,
+    "nivel": 3,
+    "tema": "Crónica y fibrosis",
+    "pregunta": "¿Cómo se relaciona la inflamación crónica con la fibrosis?",
+    "correcta_texto": "La persistencia de macrófagos y citocinas favorece la proliferación de fibroblastos",
+    "alternativas": [
+      "La persistencia de macrófagos y citocinas favorece la proliferación de fibroblastos",
+      "Los neutrófilos eliminan colágeno y previenen la cicatriz",
+      "La fibrosis aparece solo si no existen macrófagos",
+      "La inflamación crónica impide toda reparación"
+    ],
+    "feedbackIncorrecto": {
+      "Los neutrófilos eliminan colágeno y previenen la cicatriz": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "La fibrosis aparece solo si no existen macrófagos": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "La inflamación crónica impide toda reparación": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "En la cronicidad coexisten daño y reparación fibrosa."
+  },
+  {
+    "id": 54,
+    "nivel": 3,
+    "tema": "Granuloma",
+    "pregunta": "¿Qué relación define mejor un granuloma?",
+    "correcta_texto": "Acumulación organizada de macrófagos modificados rodeados por linfocitos que intenta aislar un estímulo persistente",
+    "alternativas": [
+      "Acumulación organizada de macrófagos modificados rodeados por linfocitos que intenta aislar un estímulo persistente",
+      "Acumulación aguda de neutrófilos en un exudado",
+      "Edema rico en proteínas sin infiltrado celular",
+      "Tejido normal sin respuesta inflamatoria"
+    ],
+    "feedbackIncorrecto": {
+      "Acumulación aguda de neutrófilos en un exudado": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Edema rico en proteínas sin infiltrado celular": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Tejido normal sin respuesta inflamatoria": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "El granuloma es una forma organizada de contención inflamatoria."
+  },
+  {
+    "id": 55,
+    "nivel": 3,
+    "tema": "Leucocitosis",
+    "pregunta": "¿Qué relación explica la leucocitosis durante una respuesta inflamatoria sistémica?",
+    "correcta_texto": "Las citocinas estimulan la producción y liberación de leucocitos desde la médula ósea",
+    "alternativas": [
+      "Las citocinas estimulan la producción y liberación de leucocitos desde la médula ósea",
+      "La histamina transforma eritrocitos en leucocitos",
+      "La IgG estimula directamente la médula ósea",
+      "La bradicinina produce linfocitosis por vasodilatación"
+    ],
+    "feedbackIncorrecto": {
+      "La histamina transforma eritrocitos en leucocitos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "La IgG estimula directamente la médula ósea": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "La bradicinina produce linfocitosis por vasodilatación": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La leucocitosis forma parte de la respuesta sistémica a mediadores inflamatorios."
+  },
+  {
+    "id": 56,
+    "nivel": 3,
+    "tema": "Evolución a cronicidad",
+    "pregunta": "¿Qué combinación favorece que una inflamación aguda evolucione a crónica?",
+    "correcta_texto": "Persistencia del estímulo más activación mantenida de macrófagos y linfocitos",
+    "alternativas": [
+      "Persistencia del estímulo más activación mantenida de macrófagos y linfocitos",
+      "Eliminación completa del agente más regeneración",
+      "Resolución del edema y desaparición del estímulo",
+      "Restitución rápida del tejido"
+    ],
+    "feedbackIncorrecto": {
+      "Eliminación completa del agente más regeneración": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Resolución del edema y desaparición del estímulo": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Restitución rápida del tejido": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La persistencia del agente o del daño impide la resolución."
+  },
+  {
+    "id": 57,
+    "nivel": 3,
+    "tema": "Inflamación y reparación",
+    "pregunta": "¿Qué relación entre inflamación y reparación es correcta?",
+    "correcta_texto": "La inflamación prepara el tejido para la reparación, pero si persiste puede favorecer fibrosis",
+    "alternativas": [
+      "La inflamación prepara el tejido para la reparación, pero si persiste puede favorecer fibrosis",
+      "La reparación comienza solo cuando desaparece toda inflamación",
+      "Toda inflamación termina en fibrosis",
+      "La inflamación impide la actividad de los fibroblastos"
+    ],
+    "feedbackIncorrecto": {
+      "La reparación comienza solo cuando desaparece toda inflamación": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Toda inflamación termina en fibrosis": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "La inflamación impide la actividad de los fibroblastos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La reparación puede solaparse con la inflamación; si esta se prolonga, puede dejar cicatriz."
+  },
+  {
+    "id": 58,
+    "nivel": 3,
+    "tema": "Mediadores",
+    "pregunta": "¿Qué combinación mediador–efecto está correctamente emparejada?",
+    "correcta_texto": "Histamina: permeabilidad; prostaglandinas: dolor/fiebre; IL-6: fase aguda",
+    "alternativas": [
+      "Histamina: permeabilidad; prostaglandinas: dolor/fiebre; IL-6: fase aguda",
+      "Histamina: fibrosis; prostaglandinas: anticuerpos; IL-6: rodamiento",
+      "Histamina: fagocitosis; prostaglandinas: granulomas; IL-6: IgG",
+      "Histamina: memoria; prostaglandinas: linfocitos B; IL-6: quimiotaxis"
+    ],
+    "feedbackIncorrecto": {
+      "Histamina: fibrosis; prostaglandinas: anticuerpos; IL-6: rodamiento": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "Histamina: fagocitosis; prostaglandinas: granulomas; IL-6: IgG": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida.",
+      "Histamina: memoria; prostaglandinas: linfocitos B; IL-6: quimiotaxis": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Los mediadores tienen acciones distintas y complementarias."
+  },
+  {
+    "id": 59,
+    "nivel": 3,
+    "tema": "Respuesta vascular y celular",
+    "pregunta": "¿Cómo se integran la respuesta vascular y la celular en la inflamación aguda?",
+    "correcta_texto": "La vasodilatación y la permeabilidad facilitan la llegada de proteínas y leucocitos al foco inflamatorio",
+    "alternativas": [
+      "La vasodilatación y la permeabilidad facilitan la llegada de proteínas y leucocitos al foco inflamatorio",
+      "La vasoconstricción mantiene a los leucocitos dentro del vaso y favorece la respuesta",
+      "La disminución de la permeabilidad acelera la diapédesis",
+      "El edema impide cualquier migración leucocitaria"
+    ],
+    "feedbackIncorrecto": {
+      "La vasoconstricción mantiene a los leucocitos dentro del vaso y favorece la respuesta": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "La disminución de la permeabilidad acelera la diapédesis": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "El edema impide cualquier migración leucocitaria": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Los cambios vasculares crean condiciones para la respuesta celular local."
+  },
+  {
+    "id": 60,
+    "nivel": 3,
+    "tema": "Sistémica sin cronicidad",
+    "pregunta": "Un paciente con infección aguda presenta fiebre y leucocitosis, pero no fibrosis ni infiltrado mononuclear persistente. ¿Qué interpretación es mejor?",
+    "correcta_texto": "Existe respuesta inflamatoria sistémica asociada a un proceso agudo, no necesariamente crónico",
+    "alternativas": [
+      "Existe respuesta inflamatoria sistémica asociada a un proceso agudo, no necesariamente crónico",
+      "La fiebre demuestra inflamación crónica",
+      "La leucocitosis implica granulomatosis",
+      "No puede haber respuesta sistémica en inflamación aguda"
+    ],
+    "feedbackIncorrecto": {
+      "La fiebre demuestra inflamación crónica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "La leucocitosis implica granulomatosis": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida.",
+      "No puede haber respuesta sistémica en inflamación aguda": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Los efectos sistémicos pueden acompañar perfectamente a la inflamación aguda."
+  },
+  {
+    "id": 61,
+    "nivel": 4,
+    "tema": "Caso agudo",
+    "pregunta": "Herida contaminada de 8 horas con rubor, calor, dolor y edema. ¿Qué mecanismo explica mejor el conjunto de signos?",
+    "correcta_texto": "Vasodilatación y aumento de permeabilidad inducidos por mediadores inflamatorios",
+    "alternativas": [
+      "Vasodilatación y aumento de permeabilidad inducidos por mediadores inflamatorios",
+      "Fibrosis temprana por proliferación fibroblástica",
+      "Inflamación crónica mediada por macrófagos y linfocitos",
+      "Producción sistémica de anticuerpos como causa principal"
+    ],
+    "feedbackIncorrecto": {
+      "Fibrosis temprana por proliferación fibroblástica": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "Inflamación crónica mediada por macrófagos y linfocitos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Producción sistémica de anticuerpos como causa principal": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio."
+    },
+    "ideaClave": "Los signos cardinales tempranos se explican sobre todo por cambios vasculares locales."
+  },
+  {
+    "id": 62,
+    "nivel": 4,
+    "tema": "Caso DAMP",
+    "pregunta": "Una quemadura extensa sin infección visible genera inflamación intensa. ¿Qué mecanismo la inicia con mayor probabilidad?",
+    "correcta_texto": "Moléculas intracelulares liberadas por células lesionadas actúan como DAMP",
+    "alternativas": [
+      "Moléculas intracelulares liberadas por células lesionadas actúan como DAMP",
+      "PAMP bacterianos derivados de infección obligatoria",
+      "IgE específica contra el tejido quemado",
+      "Formación inmediata de tejido cicatricial"
+    ],
+    "feedbackIncorrecto": {
+      "PAMP bacterianos derivados de infección obligatoria": "Los PAMP provienen de microorganismos; esa lógica no es la central en este ítem.",
+      "IgE específica contra el tejido quemado": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Formación inmediata de tejido cicatricial": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "El daño tisular estéril activa inflamación a través de DAMP."
+  },
+  {
+    "id": 63,
+    "nivel": 4,
+    "tema": "Caso mixto",
+    "pregunta": "Una herida infectada presenta bacterias en proliferación y necrosis tisular. ¿Qué patrón de señales de peligro es más esperable?",
+    "correcta_texto": "PAMP bacterianos y DAMP derivados de necrosis",
+    "alternativas": [
+      "PAMP bacterianos y DAMP derivados de necrosis",
+      "Solo PAMP porque existe infección",
+      "Solo DAMP porque existe necrosis",
+      "Ninguna señal porque ambas se neutralizan"
+    ],
+    "feedbackIncorrecto": {
+      "Solo PAMP porque existe infección": "Los PAMP provienen de microorganismos; esa lógica no es la central en este ítem.",
+      "Solo DAMP porque existe necrosis": "Los DAMP derivan de células dañadas o necróticas; esta alternativa no corresponde al caso planteado.",
+      "Ninguna señal porque ambas se neutralizan": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "En la vida real, infección y daño tisular suelen coexistir."
+  },
+  {
+    "id": 64,
+    "nivel": 4,
+    "tema": "Caso histamina",
+    "pregunta": "Minutos después de una lesión, el paciente desarrolla rubor y edema marcados. ¿Qué evento ocurrió primero con mayor probabilidad?",
+    "correcta_texto": "Degranulación mastocitaria con liberación de histamina",
+    "alternativas": [
+      "Degranulación mastocitaria con liberación de histamina",
+      "Activación prolongada de fibroblastos",
+      "Formación de granulomas",
+      "Producción secundaria de IgG"
+    ],
+    "feedbackIncorrecto": {
+      "Activación prolongada de fibroblastos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Formación de granulomas": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida.",
+      "Producción secundaria de IgG": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio."
+    },
+    "ideaClave": "La histamina es un mediador temprano típico."
+  },
+  {
+    "id": 65,
+    "nivel": 4,
+    "tema": "Caso edema",
+    "pregunta": "Un tejido inflamado presenta edema con abundantes proteínas plasmáticas en el intersticio. ¿Qué alteración vascular lo explica mejor?",
+    "correcta_texto": "Aumento de la permeabilidad vascular",
+    "alternativas": [
+      "Aumento de la permeabilidad vascular",
+      "Aumento aislado de la presión arterial sistémica",
+      "Vasoconstricción persistente",
+      "Disminución de la permeabilidad capilar"
+    ],
+    "feedbackIncorrecto": {
+      "Aumento aislado de la presión arterial sistémica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Vasoconstricción persistente": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Disminución de la permeabilidad capilar": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La fuga proteica al intersticio es característica del edema inflamatorio."
+  },
+  {
+    "id": 66,
+    "nivel": 4,
+    "tema": "Caso reclutamiento",
+    "pregunta": "En una biopsia se observa un neutrófilo firmemente adherido al endotelio y a punto de atravesarlo. ¿Qué etapa sigue inmediatamente?",
+    "correcta_texto": "Diapédesis o transmigración",
+    "alternativas": [
+      "Diapédesis o transmigración",
+      "Marginación",
+      "Rodamiento",
+      "Quimiotaxis intravascular"
+    ],
+    "feedbackIncorrecto": {
+      "Marginación": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Rodamiento": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Quimiotaxis intravascular": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Luego de la adhesión firme, el leucocito atraviesa la pared vascular."
+  },
+  {
+    "id": 67,
+    "nivel": 4,
+    "tema": "Caso neutrófilos",
+    "pregunta": "Celulitis bacteriana de 12 horas con exudado purulento. ¿Qué célula debería predominar?",
+    "correcta_texto": "Neutrófilo",
+    "alternativas": [
+      "Neutrófilo",
+      "Linfocito",
+      "Fibroblasto",
+      "Célula gigante multinucleada"
+    ],
+    "feedbackIncorrecto": {
+      "Linfocito": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Fibroblasto": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Célula gigante multinucleada": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "En la inflamación aguda bacteriana temprana predominan neutrófilos."
+  },
+  {
+    "id": 68,
+    "nivel": 4,
+    "tema": "Caso macrófagos",
+    "pregunta": "Cinco días después de una lesión disminuyen neutrófilos y aumentan células que fagocitan restos, liberan citocinas y participan en reparación. ¿Qué población predomina?",
+    "correcta_texto": "Macrófagos",
+    "alternativas": [
+      "Macrófagos",
+      "Mastocitos",
+      "Células plasmáticas",
+      "Basófilos"
+    ],
+    "feedbackIncorrecto": {
+      "Mastocitos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Células plasmáticas": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Basófilos": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Los macrófagos aparecen después y persisten más tiempo."
+  },
+  {
+    "id": 69,
+    "nivel": 4,
+    "tema": "Caso IL-6",
+    "pregunta": "Paciente con neumonía desarrolla fiebre y elevación de proteína C reactiva. ¿Qué citocina conecta mejor estos hallazgos?",
+    "correcta_texto": "IL-6",
+    "alternativas": [
+      "IL-6",
+      "Histamina",
+      "Bradicinina",
+      "Leucotrienos"
+    ],
+    "feedbackIncorrecto": {
+      "Histamina": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí.",
+      "Bradicinina": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí.",
+      "Leucotrienos": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí."
+    },
+    "ideaClave": "IL-6 participa en fiebre y estimula fase aguda hepática."
+  },
+  {
+    "id": 70,
+    "nivel": 4,
+    "tema": "Caso TNF-α",
+    "pregunta": "Durante una infección intensa aumenta la activación endotelial y el reclutamiento leucocitario. ¿Qué mediador es especialmente relevante?",
+    "correcta_texto": "TNF-α",
+    "alternativas": [
+      "TNF-α",
+      "IgA",
+      "Colágeno tipo I",
+      "Histamina como explicación única"
+    ],
+    "feedbackIncorrecto": {
+      "IgA": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Colágeno tipo I": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Histamina como explicación única": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "TNF-α potencia activación endotelial e inflamación."
+  },
+  {
+    "id": 71,
+    "nivel": 4,
+    "tema": "Caso sistémico",
+    "pregunta": "Un absceso localizado se acompaña de fiebre, leucocitosis y malestar general. ¿Qué explicación integra mejor los hallazgos?",
+    "correcta_texto": "Citocinas inflamatorias producidas localmente alcanzan la circulación y actúan sobre órganos distantes",
+    "alternativas": [
+      "Citocinas inflamatorias producidas localmente alcanzan la circulación y actúan sobre órganos distantes",
+      "El absceso necesariamente se transformó en inflamación crónica",
+      "La fiebre depende solo de histamina local",
+      "La leucocitosis indica pérdida de tolerancia inmunológica"
+    ],
+    "feedbackIncorrecto": {
+      "El absceso necesariamente se transformó en inflamación crónica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "La fiebre depende solo de histamina local": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "La leucocitosis indica pérdida de tolerancia inmunológica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La respuesta sistémica puede surgir a partir de un foco local."
+  },
+  {
+    "id": 72,
+    "nivel": 4,
+    "tema": "Caso cronicidad",
+    "pregunta": "Una lesión de 6 meses muestra infiltrado de macrófagos y linfocitos, angiogénesis y fibrosis. ¿Qué diagnóstico fisiopatológico describe mejor el patrón?",
+    "correcta_texto": "Inflamación crónica",
+    "alternativas": [
+      "Inflamación crónica",
+      "Inflamación aguda temprana",
+      "Edema inflamatorio aislado",
+      "Resolución completa"
+    ],
+    "feedbackIncorrecto": {
+      "Inflamación aguda temprana": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Edema inflamatorio aislado": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Resolución completa": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La duración prolongada, el infiltrado mononuclear y la fibrosis apoyan cronicidad."
+  },
+  {
+    "id": 73,
+    "nivel": 4,
+    "tema": "Caso granuloma",
+    "pregunta": "Una biopsia pulmonar muestra macrófagos epiteloides rodeados por linfocitos y algunas células gigantes multinucleadas. ¿Qué patrón corresponde?",
+    "correcta_texto": "Inflamación granulomatosa",
+    "alternativas": [
+      "Inflamación granulomatosa",
+      "Inflamación aguda neutrofílica",
+      "Respuesta sistémica sin lesión local",
+      "Edema transudativo"
+    ],
+    "feedbackIncorrecto": {
+      "Inflamación aguda neutrofílica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Respuesta sistémica sin lesión local": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Edema transudativo": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "El granuloma es una forma organizada de inflamación crónica."
+  },
+  {
+    "id": 74,
+    "nivel": 4,
+    "tema": "Caso crónica inespecífica",
+    "pregunta": "Una lesión crónica presenta infiltrado difuso de macrófagos/linfocitos y aumento progresivo de fibroblastos. ¿Qué consecuencia funcional es más probable?",
+    "correcta_texto": "Reemplazo de tejido funcional por cicatriz con posible pérdida de función",
+    "alternativas": [
+      "Reemplazo de tejido funcional por cicatriz con posible pérdida de función",
+      "Recuperación anatómica completa sin secuelas",
+      "Desaparición inmediata del estímulo lesivo",
+      "Predominio persistente de neutrófilos sin fibrosis"
+    ],
+    "feedbackIncorrecto": {
+      "Recuperación anatómica completa sin secuelas": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Desaparición inmediata del estímulo lesivo": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Predominio persistente de neutrófilos sin fibrosis": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem."
+    },
+    "ideaClave": "La fibrosis preserva integridad, pero puede disminuir la función del órgano."
+  },
+  {
+    "id": 75,
+    "nivel": 4,
+    "tema": "Caso evolución",
+    "pregunta": "Una inflamación aguda no logra eliminar el agente causal y este persiste. ¿Cuál es el desenlace más probable?",
+    "correcta_texto": "Progresión hacia inflamación crónica",
+    "alternativas": [
+      "Progresión hacia inflamación crónica",
+      "Resolución completa inmediata",
+      "Regeneración total obligatoria",
+      "Desaparición del infiltrado celular"
+    ],
+    "feedbackIncorrecto": {
+      "Resolución completa inmediata": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Regeneración total obligatoria": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "Desaparición del infiltrado celular": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La persistencia del estímulo favorece la cronicidad."
+  },
+  {
+    "id": 76,
+    "nivel": 4,
+    "tema": "Caso resolución",
+    "pregunta": "Una inflamación aguda leve elimina rápidamente el agente y el tejido conserva buena capacidad regenerativa. ¿Qué desenlace es más probable?",
+    "correcta_texto": "Resolución completa",
+    "alternativas": [
+      "Resolución completa",
+      "Fibrosis extensa",
+      "Granuloma",
+      "Inflamación crónica obligatoria"
+    ],
+    "feedbackIncorrecto": {
+      "Fibrosis extensa": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "Granuloma": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida.",
+      "Inflamación crónica obligatoria": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Si la causa desaparece y el tejido puede recuperarse, la resolución es el desenlace esperado."
+  },
+  {
+    "id": 77,
+    "nivel": 4,
+    "tema": "Caso prostaglandinas",
+    "pregunta": "Un paciente con inflamación aguda presenta dolor local y fiebre. Si disminuye la síntesis de prostaglandinas, ¿qué tendería a reducirse principalmente?",
+    "correcta_texto": "Dolor y fiebre",
+    "alternativas": [
+      "Dolor y fiebre",
+      "Leucocitosis y fibrosis",
+      "Granulomas y anticuerpos",
+      "Marginación y memoria inmunológica"
+    ],
+    "feedbackIncorrecto": {
+      "Leucocitosis y fibrosis": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "Granulomas y anticuerpos": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida.",
+      "Marginación y memoria inmunológica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Las prostaglandinas contribuyen a dolor y fiebre."
+  },
+  {
+    "id": 78,
+    "nivel": 4,
+    "tema": "Caso bradicinina",
+    "pregunta": "En una lesión hay dolor intenso acompañado de aumento de permeabilidad vascular. Si se bloquea un mediador específico, ambos efectos disminuyen. ¿Cuál es?",
+    "correcta_texto": "Bradicinina",
+    "alternativas": [
+      "Bradicinina",
+      "IL-6",
+      "IgG",
+      "Colágeno"
+    ],
+    "feedbackIncorrecto": {
+      "IL-6": "Ese mediador sí participa en inflamación, pero no es el que mejor explica lo preguntado aquí.",
+      "IgG": "Las inmunoglobulinas tienen funciones inmunes relevantes, pero no responden directamente a este mecanismo inflamatorio.",
+      "Colágeno": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "La bradicinina vincula dolor con permeabilidad."
+  },
+  {
+    "id": 79,
+    "nivel": 4,
+    "tema": "Caso sistémica vs crónica",
+    "pregunta": "Paciente con apendicitis aguda presenta fiebre y leucocitosis desde el primer día, pero sin fibrosis ni infiltrado mononuclear persistente. ¿Qué interpretación es correcta?",
+    "correcta_texto": "Existe respuesta inflamatoria sistémica asociada a inflamación aguda",
+    "alternativas": [
+      "Existe respuesta inflamatoria sistémica asociada a inflamación aguda",
+      "La fiebre demuestra inflamación crónica",
+      "La leucocitosis implica granulomatosis",
+      "No puede existir respuesta sistémica en inflamación aguda"
+    ],
+    "feedbackIncorrecto": {
+      "La fiebre demuestra inflamación crónica": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta.",
+      "La leucocitosis implica granulomatosis": "Eso corresponde a inflamación granulomatosa o crónica organizada, no a la respuesta pedida.",
+      "No puede existir respuesta sistémica en inflamación aguda": "La alternativa elegida no corresponde al mecanismo o concepto evaluado en esta pregunta."
+    },
+    "ideaClave": "Respuesta sistémica y cronicidad no son sinónimos."
+  },
+  {
+    "id": 80,
+    "nivel": 4,
+    "tema": "Caso integrador",
+    "pregunta": "Una infección bacteriana genera PAMP, activa macrófagos y mastocitos, produce vasodilatación, edema, reclutamiento de neutrófilos y luego fiebre. ¿Qué secuencia integra mejor el proceso?",
+    "correcta_texto": "Reconocimiento del peligro → liberación de mediadores → cambios vasculares/celulares → efectos locales y sistémicos",
+    "alternativas": [
+      "Reconocimiento del peligro → liberación de mediadores → cambios vasculares/celulares → efectos locales y sistémicos",
+      "Fiebre → PAMP → neutrófilos → mediadores",
+      "Fibrosis → reconocimiento → edema → infección",
+      "Anticuerpos → mastocitos → DAMP → resolución"
+    ],
+    "feedbackIncorrecto": {
+      "Fiebre → PAMP → neutrófilos → mediadores": "Los PAMP provienen de microorganismos; esa lógica no es la central en este ítem.",
+      "Fibrosis → reconocimiento → edema → infección": "La fibrosis pertenece más a reparación o a inflamación crónica que al mecanismo central de este ítem.",
+      "Anticuerpos → mastocitos → DAMP → resolución": "Los DAMP derivan de células dañadas o necróticas; esta alternativa no corresponde al caso planteado."
+    },
+    "ideaClave": "La inflamación se organiza desde el reconocimiento inicial hasta sus efectos locales y generales."
+  }
+]
